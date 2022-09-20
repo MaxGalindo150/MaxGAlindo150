@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👨🏽‍💻 I’m Maximiliano, I'm a Physics student
-- 💻 I'm interested in Computational Science, AI, Web Development and Data Science
-- 🌱 I’m currently learning Data Science, Machine Learning and Web Development 
+- 💻 I'm interested in Computer Science, AI, Web Development, Algorithms
+- 🌱 I’m currently learning Algorithms, Machine Learning and Web Development 
 - 🤝 I’m looking to collaborate on open source projects to raise my skills
 - 📫 How to reach me:
 
