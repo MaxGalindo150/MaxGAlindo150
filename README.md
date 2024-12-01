@@ -5,7 +5,7 @@ I’m **Maximiliano**, a Master’s student in **Computer Science**, **CTO**, an
 ---
 
 #### About Me:
-- **Professional Role**: As CTO of Eigencore, I lead the development and implementation of cutting-edge AI solutions, combining technical expertise with strategic vision.
+- **Professional Role**: As CTO of Eigencore, I lead the research, development and implementation of cutting-edge AI solutions, combining technical expertise with strategic vision.
 - **Academic Focus**: My background in Physics and ongoing Computer Science studies provide a strong foundation for exploring advanced AI techniques.
 - **Key Interests**:
   
@@ -15,7 +15,7 @@ I’m **Maximiliano**, a Master’s student in **Computer Science**, **CTO**, an
 ---
 
 #### Let’s Connect:
-I am open to collaborations in AI and Machine Learning, especially in the areas of **Reinforcement Learning** and **applied research**. Let’s work together to build impactful solutions.
+I am open to collaborations in AI and Machine Learning, especially in the areas of **Reinforcement Learning** and **applied research**.
 
 - **Twitter**: [@MaxGalindo5](https://twitter.com/MaxGalindo5)  
 - **GitHub**: Feel free to explore my repositories.
